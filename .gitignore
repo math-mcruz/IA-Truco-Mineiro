@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos e pesos treinados (costumam ser grandes)
+*.pt
+*.pth
+*.pkl
+*.h5
+models/
+checkpoints/
+
+# Logs de treino / experimentos
+logs/
+runs/
+wandb/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
