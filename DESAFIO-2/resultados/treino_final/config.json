@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "episodios": 5000,
+  "partidas_avaliacao_final": 2000,
+  "partidas_por_avaliacao_periodica": 200,
+  "rampa_epsilon": 5000,
+  "recompensa_escala": "1/12",
+  "gamma": 0.99,
+  "lote": 64,
+  "aquecimento": 1000,
+  "aprende_a_cada_passos": 4,
+  "sincronia_rede_alvo_updates": 1000
+}

@@ -221,6 +221,7 @@ __marimo__/
 
 # Modelos e pesos treinados (costumam ser grandes)
 *.pt
+!resultados/treino_final/modelo.pt
 *.pth
 *.pkl
 *.h5

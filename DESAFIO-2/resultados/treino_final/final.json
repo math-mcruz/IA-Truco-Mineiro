@@ -1,0 +1,7 @@
+{
+  "semente_treinamento": 42,
+  "episodios": 5000,
+  "partidas": 2000,
+  "taxa_vitoria": 0.794,
+  "proveniencia": "Treinado"
+}
